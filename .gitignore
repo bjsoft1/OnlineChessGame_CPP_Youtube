@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Binaries/Win64
+/Intermediate
+/Saved
+*.vsconfig
